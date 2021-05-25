@@ -26,7 +26,7 @@ Generators | https://kubernetes.io/docs/reference/kubectl/conventions/#generator
 Image from a Private Registry | https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
 Images | https://kubernetes.io/docs/concepts/containers/images/#using-a-private-registry
 Ingress Controller | https://kubernetes.io/docs/tasks/access-application-cluster/ingress-minikube/
-Ingress Examples | https://kubernetes.io/fr/docs/concepts/services-networking/ingress/
+Ingress Examples | https://kubernetes.io/docs/concepts/services-networking/ingress/
 Init Containers + busybox | https://kubernetes.io/docs/concepts/workloads/pods/init-containers/
 Inject Data Into Applications | https://kubernetes.io/docs/tasks/inject-data-application/
 Install kubectl, kube-apiserver, kube-scheduler, etc.. | https://kubernetes.io/docs/tasks/tools/install-kubectl/
